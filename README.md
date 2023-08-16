@@ -4,3 +4,5 @@ Se faz como meta a realização de todos os problemas deste caderno de prova, ca
 
 # Atenção
 Se faz importante dizer que os códigos contidos neste repositório foram feitos de forma unica e exclusiva para aprendizagem e aprimoramento nestas linguagens de programação (C, C++, Python e Java), logo, nenhum destes códigos passou pela banca examinadora.
+
+Copyright © 2023 - [Fernandeezz](https://github.com/Fernandeezz)
