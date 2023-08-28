@@ -1,4 +1,4 @@
-// Problema C - Vacina
+// Problema C - Vacina em C++
 
 #include <iostream>
 #include <string>
