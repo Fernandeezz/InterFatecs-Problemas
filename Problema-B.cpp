@@ -1,4 +1,4 @@
-// Problema B - Escolha científica
+// Problema B - Escolha científica em C++
 
 #include <iostream>
 #include <string>
