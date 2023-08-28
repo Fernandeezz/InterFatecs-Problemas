@@ -1,4 +1,4 @@
-//Ptoblema B - Escolha científica
+//Problema B - Escolha científica em C
 
 #include <stdio.h>
 
