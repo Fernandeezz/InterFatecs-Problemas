@@ -1,4 +1,4 @@
-// Problema E - Prefeito Tecnológico
+// Problema E - Prefeito Tecnológico em C++
 
 #include <iostream>
 #include <vector>
