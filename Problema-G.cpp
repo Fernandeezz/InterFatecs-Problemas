@@ -1,4 +1,4 @@
-// Problema G - E aí, professor, tem jeito?
+// Problema G - E aí, professor, tem jeito? em C++
 
 #include <iostream>
 #include <vector>
